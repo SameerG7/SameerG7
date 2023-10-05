@@ -2,7 +2,7 @@
 
 # Sameer Gul 👨‍💻
 
-Hi! 🛸 I'm Sameer, studying Computer Science at Queen’s University Belfast. I'm all about crafting scalable tech solutions. Off-screen, I'm either nailing baskets 🏀 or immersed in pottery 🏺. Driven by curiosity and the joy of collaboration, I believe in the power of combined creativity. Excited to innovate with fellow tech enthusiasts. 🔗 Explore more about me.
+Hi! 🛸 I'm Sameer, studying Computer Science at Queen’s University Belfast. I'm all about crafting scalable tech solutions. Outside the realm of coding, I'm either nailing baskets 🏀 or immersed in pottery 🏺. Driven by curiosity and the joy of collaboration, I believe in the power of combined creativity. Excited to innovate with fellow tech enthusiasts. 🔗 Explore more about me.
 
 ### 🎓 Education
 - **BSc Computer Science With a Year In Industry** | [Queen’s University Belfast](https://www.qub.ac.uk/)  
