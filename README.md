@@ -42,9 +42,18 @@ Highlights: `OOP`, `UML diagrams`, `ArrayLists`, `JUnit 5 Testing`, `GitHub vers
 
 ---
 
-### 🌱 Learning  
+### 🌱 Learning & Certifications  
 - `Google Cloud Associate Cloud Engineer` *(in progress)*  
 - `Blockchain Applications with Solidity & Smart Contracts` – [Udemy](https://www.udemy.com/) (2025)  
+- `Google Cloud Foundations` – LinkedIn Learning  
+- `GCP Essential Training for Developers` – LinkedIn Learning  
+- `Learning HashiCorp Vault` – LinkedIn Learning  
+- `Learning Ansible` – LinkedIn Learning  
+- `Learning Docker` – LinkedIn Learning  
+- `Agile Software Development` – LinkedIn Learning  
+- `Intro to Linux` – LinkedIn Learning  
+- `Data Engineering Foundations` – LinkedIn Learning  
+- `AI/ML Foundations` – LinkedIn Learning   
 
 ---
 
