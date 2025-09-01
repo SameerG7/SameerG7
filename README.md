@@ -51,4 +51,4 @@ Highlights: `OOP`, `UML diagrams`, `ArrayLists`, `JUnit 5 Testing`, `GitHub vers
 ### 📞 Let’s Connect!  
 - 📧 [Email me](mailto:gulsameer1000@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sameer-g-4728a3260/)  
-- 🐙 Other [GitHub](https://github.com/skwebminds)  
+- 🐙 [GitHub](https://github.com/skwebminds) (Other)
