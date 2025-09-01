@@ -20,18 +20,24 @@ I’m driven by **curiosity and collaboration**, always excited to innovate with
 `Java (Spring Boot, OOP, JUnit)` · `GCP (Pub/Sub, BigQuery, GKE)` · `Kafka` · `OpenTelemetry` · `Jenkins` · `CI/CD` · `Ansible` · `Chef` · `Terraform`  
 
 **Founder & Web Solutions Developer** | [SkWebMinds](https://skwebminds.com/) | *May 2023 – Present*  
-`Serverless (Vercel)` · `API integrations (DVLA, Google Sheets)` · `SEO` · `Domain & Hosting` · `Client Delivery`  
+`JavaScript` · `REST APIs` · `Serverless (Vercel)` · `Google Sheets API` · `DVLA API` · `SEO` · `Domain & Hosting` · `Client Delivery`  
 
 ---
 
-### 💡 Featured Project  
-**[Personal Banking System](https://github.com/skwebminds/ossett-tyres)** | Java | *Aug 2024*  
+### 💡 Featured Projects  
+
+**[Ossett Tyres – Vehicle Registration & Tyre Ordering System](https://github.com/skwebminds/ossett-tyres)** | *May 2023 – Present*  
+Most notable client project: built a **registration lookup + tyre ordering system** for a UK tyre garage.  
+Highlights: `JavaScript`, `REST APIs`, `DVLA API integration`, `OE tyre fitment API`, `Serverless backend (Vercel)`, `Google Sheets API`, `Automated order emails`, `50+ monthly customer enquiries tracked`  
+
+**Personal Banking System** | Java | *Aug 2024*  
+Academic project: developed an **object-oriented banking system** managing accounts and transactions.  
 Highlights: `OOP`, `UML diagrams`, `ArrayLists`, `JUnit 5 Testing`, `GitHub version control`  
 
 ---
 
 ### 🛠️ Core Skills  
-**Technical:** `Java`, `SQL`, `HTML/CSS`, `Git/GitHub`, `Docker`, `Kubernetes`, `Terraform`, `CI/CD`, `GCP`, `API Integrations`, `SEO`  
+**Technical:** `Java`, `JavaScript`, `SQL`, `REST APIs`, `HTML/CSS`, `Git/GitHub`, `Docker`, `Kubernetes`, `Terraform`, `CI/CD`, `GCP`, `Vercel`, `API Integrations`, `SEO`  
 **Soft:** Leadership · Communication · Problem-Solving · Collaboration  
 
 ---
