@@ -1,32 +1,30 @@
-### Hi there 👋
+Hi there 👋
+Sameer Gul 👨‍💻
 
-# Sameer Gul 👨‍💻
+Hi! 🛸 I’m Sameer, studying Computer Science at Queen’s University Belfast. I enjoy building scalable tech solutions, from low-latency trading systems to web automation tools. Outside of coding, you’ll find me on the football pitch ⚽ or in the gym 🏋️. I’m driven by curiosity and collaboration, always excited to create alongside fellow innovators.
 
-Hi! 🛸 I'm Sameer, studying Computer Science at Queen’s University Belfast. I'm all about crafting scalable tech solutions. Outside the realm of coding, I'm either nailing baskets 🏀 or immersed in pottery 🏺. Driven by curiosity and the joy of collaboration, I believe in the power of combined creativity. Excited to innovate with fellow tech enthusiasts. 🔗 Explore more about me.
+🎓 Education
+BSc Computer Science with a Year in Industry | Queen’s University Belfast
+Sep 2022 – May 2026 | Achieved 1st class average (73.5%)
 
-### 🎓 Education
-- **BSc Computer Science With a Year In Industry** | [Queen’s University Belfast](https://www.qub.ac.uk/)  
-  `Sep 2022 – May 2026`
+🚀 Experience
+Software Engineer Intern | CME Group, Belfast | Jul 2024 – Aug 2025
+Skills: Java (Spring Boot, OOP, JUnit), GCP (Pub/Sub, BigQuery, GKE), Kafka, OpenTelemetry, Jenkins, CI/CD, Ansible, Chef, Terraform
 
-### 🚀 Experience 
-- **Digital Architect & SEO** | London | `May 2023`  
-  Skills: `AI-driven SEO`, `HTML`, `CSS`
-- **Intern** | Fibrus, Belfast | `April 2023`  
-  Insights: `Python`, `SQL`, `Networks/Network Design`, `Data centralisation` 
+Founder & Web Solutions Developer | SkWebMinds | May 2023 – Present
+Skills: Serverless (Vercel), API integrations (DVLA, Google Sheets), SEO, Domain & Hosting, Client Delivery
 
-### 💡 Featured Project 
-- [Personal Banking System](https://github.com/SameerG7/central-bank-application)  
-  Language: `Java` | Date: `Aug 2023`  
-  Highlights: `OOP`, `ArrayLists`, `JUnit 5 Testing`
+💡 Featured Project
+Personal Banking System | Java | Aug 2024
+Highlights: OOP, UML diagrams, ArrayLists, JUnit 5 Testing, GitHub version control
 
-### 🛠️ Core Skills 
-- **Technical**: `Java`, `Python`, `SQL`, `SEO`, `GitHub`, `GitLab`, `Software Testing`
-- **Soft**: `Leadership`, `Communication`, `Problem-Solving`
+🛠️ Core Skills
+Technical: Java, SQL, HTML/CSS, Git/GitHub, Docker, Kubernetes, Terraform, CI/CD, GCP, API Integrations, SEO
+Soft: Leadership, Communication, Problem-Solving, Collaboration
 
-### 🌱 Learning 
-- [Ethereum Blockchain](https://www.udemy.com/) | `Udemy`  
-  `Dec 2022 - Present`  
-  Topics: `DApps`, `Solidity`, `Smart Contracts`, `Blockchain Architecture`
+🌱 Learning
+Google Cloud Associate Cloud Engineer | In progress
+Blockchain Applications with Solidity & Smart Contracts | Udemy (2025)
   
   ### 📞 Let's Connect!
 - 📧 [Email me](mailto:gulsameer1000@gmail.com)
