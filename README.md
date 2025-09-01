@@ -27,7 +27,7 @@ I’m driven by **curiosity and collaboration**, always excited to innovate with
 ### 💡 Featured Projects  
 
 **[Ossett Tyres – Vehicle Registration & Tyre Ordering System](https://github.com/skwebminds/ossett-tyres)** | *May 2023 – Present*  
-Most notable client project: built a **registration lookup + tyre ordering system** for a UK tyre garage.  
+Most notable client project: built a **[registration lookup + tyre ordering system](https://github.com/skwebminds/ossett-tyres)** for a UK tyre garage.  
 Highlights: `JavaScript`, `REST APIs`, `DVLA API integration`, `OE tyre fitment API`, `Serverless backend (Vercel)`, `Google Sheets API`, `Automated order emails`, `50+ monthly customer enquiries tracked`  
 
 **Personal Banking System** | Java | *Aug 2024*  
@@ -50,5 +50,5 @@ Highlights: `OOP`, `UML diagrams`, `ArrayLists`, `JUnit 5 Testing`, `GitHub vers
 
 ### 📞 Let’s Connect!  
 - 📧 [Email me](mailto:gulsameer1000@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sameer-gul-4728a3260/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sameer-g-4728a3260/)  
 - 🐙 [GitHub](https://github.com/skwebminds)  
