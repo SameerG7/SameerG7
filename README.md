@@ -24,16 +24,38 @@ Web, AI and automation solutions for UK businesses, delivered end to end: design
 ### 💡 Featured Work
 
 **[Maseed Rice](https://maseedrice.co.uk/): online ordering and back office**  
-Full-stack ordering platform for a UK rice wholesaler: online checkout with card, bank transfer and cash, invoices and credit notes, payment tracking, and a simple admin built for the owner's phone.  
-`Next.js` · `Supabase` · `Stripe` · `Resend` · `Railway` · `Playwright` · `SonarQube` · `GitHub Actions`
+Full-stack ordering platform for a UK rice wholesaler: checkout with card, bank transfer and cash, invoices and credit notes, payment tracking, scheduled email jobs, and a simple admin built for the owner's phone. Every change passes a CI gate (E2E, accessibility, Lighthouse, security, SonarQube) before it deploys.  
+`Next.js` · `TypeScript` · `Supabase` · `Stripe` · `Resend` · `Railway` · `Playwright` · `GitHub Actions`
 
 **[AI-BoM: verifiable provenance for open-source LLMs](https://github.com/SameerG7/Blockchain-Anchored-Provenance-and-Regulatory-Compliance-for-Open-Source-LLM-Derivatives)**  
 Turns an LLM release into a reviewable, publishable compliance record: an AI Bill of Materials, proofs stored on IPFS and anchored on-chain, and a dashboard for lineage, readiness and reporting.  
 `Python (FastAPI)` · `Next.js` · `Solidity` · `IPFS` · `Base` · `Vertex AI`
 
-**[Ossett Tyres: registration lookup and tyre ordering](https://github.com/skwebminds/ossett-tyres)**  
-Vehicle registration lookup and tyre ordering for a UK tyre garage, with automated order emails and enquiry tracking.  
-`JavaScript` · `DVLA API` · `Serverless (Vercel)` · `Google Sheets API`
+**[A Star Customs](https://github.com/SK-Intelligence/a-star-customs): storefront and secure checkout**  
+Independent rebuild of a custom-vehicle storefront, moved off its website builder: all 37 products migrated, a persistent multi-item cart with configurable add-ons, Stripe checkout, and cookie-controlled embeds.  
+`React` · `TypeScript` · `Vite` · `Zustand` · `FastAPI` · `Stripe` · `Nginx`
+
+**[Ossett Tyres](https://ossett-tyres.vercel.app/): registration lookup and tyre ordering** ([code](https://github.com/SK-Intelligence/ossett-tyres))  
+Website for a UK tyre garage with live vehicle lookup by registration (DVLA) and a tyre ordering flow, behind a small server-side API boundary.  
+`JavaScript` · `Python` · `DVLA API` · `Vercel`
+
+**[SK Intelligence](https://www.sk-intelligence.co/): company website** ([code](https://github.com/SK-Intelligence/Sk-Intelligence-Site))  
+Statically prerendered marketing site with a three.js node-lattice hero, a GLSL shader background and GSAP motion.  
+`Next.js` · `TypeScript` · `three.js` · `GLSL` · `GSAP`
+
+**More client sites:** [GB Autos & Tyres](https://gb-autos-tyres.vercel.app/) ([code](https://github.com/SK-Intelligence/gb-autos)) and [Hopeful Hearts](https://github.com/SK-Intelligence/hopeful-hearts-ltd): fast, dependency-free rebuilds with accessibility and content regression tests.
+
+---
+
+### 🏆 Hackathons
+
+**[MedAgent](https://github.com/abhaymundhara/MedAgent): HackBelfast 2026** ([live demo](https://hack-belfast-med-agent.vercel.app/))  
+Emergency medical access for cross-border healthcare across the island of Ireland. Verified clinicians get a narrow, time-limited view of a patient's emergency summary under a deterministic access policy (the AI interprets, translates and briefs, but never decides access), with every release audited on Solana with no patient data on-chain.  
+`Next.js` · `LangGraph` · `Solana (Anchor)` · `Resend` · `Vercel`
+
+**AI-BoM Trust Agent: Synthesis hackathon**  
+An autonomous agent (Discover → Plan → Execute → Verify → Log) on top of AI-BoM, with its own on-chain identity, reputation and validation registries and a public agent registration manifest.  
+`Python` · `Solidity` · `Base` · `IPFS / Filecoin` · `Next.js`
 
 ---
 
