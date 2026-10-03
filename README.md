@@ -1,4 +1,4 @@
-# Hi, I'm Sameer Gul 👋
+# Hi, I'm Sameer👋
 
 Software engineer at **LSEG** and founder of **[SK Intelligence](https://www.sk-intelligence.co/)**, where I build web, AI and cloud solutions for businesses.
 
